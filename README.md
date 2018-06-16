@@ -1,1 +1,1 @@
-# bootstra-boilerplate
+# bootstrap-boilerplate
